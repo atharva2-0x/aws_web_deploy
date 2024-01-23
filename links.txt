@@ -1,0 +1,4 @@
+AWS AMPLIFY-- https://us-west-1.console.aws.amazon.com/amplify/home?region=us-west-1#/
+AWS LAMBDA -- https://us-west-1.console.aws.amazon.com/lambda/home?region=us-west-1#/functions
+API GATEWAY-- https://us-west-1.console.aws.amazon.com/apigateway/main/apis?region=us-west-1
+AWS DYNAMO -- https://us-west-1.console.aws.amazon.com/dynamodbv2/home?region=us-west-1#tables
